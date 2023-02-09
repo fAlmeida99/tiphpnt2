@@ -1,0 +1,23 @@
+/* definindo nosso estilo... */ 
+@charset "utf8";
+
+.fundofixo{
+    background: url('../images/churrascaria.jpg') no-repeat;
+    -webkit-background-size: cover;
+    background-size: cover;
+}
+
+
+.w50{
+    width: 50%;
+}
+
+
+
+
+
+
+
+
+
+
